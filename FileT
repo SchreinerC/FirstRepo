@@ -1,0 +1,4 @@
+def operation:
+for count, i in enumerate(values):
+	print(count, i)
+	
